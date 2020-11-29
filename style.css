@@ -369,12 +369,12 @@ a:hover {
   font-family: "PixelVJVeranda", Tahoma;
   overflow: scroll;
   font-size: 2.5vh;
-  margin-top: 10%;
+  margin-top: 20%;
 }	
 	
   #alertSymbol {
   display: inline-block;
-  width: 30%;
+  width: 35%;
 }
 
 #alertSymbolImage {
