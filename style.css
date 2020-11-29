@@ -408,14 +408,14 @@ a:hover {
     
     
     #popupBoxSocial {
-  width: 80vw;
+  width: 85vw;
   /*height: 10em;*/
   background-color: #ddd;
   padding: 0.0em;
   border-style: outset;
   border-width: 3px;
 	display: none;
-	left: 20vw;
+	left: 30vw;
 	top: 40vh;
 	position: absolute;
 }
