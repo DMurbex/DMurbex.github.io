@@ -357,7 +357,7 @@ a:hover {
 	#alertTitle {
   display: inline;
   font-family: "PixelVJVeranda", Tahoma;
-  font-size: 5vw;
+  font-size: 6vw;
   margin-left: 2vw;	
   font-weight: bolder;		
 }
@@ -394,7 +394,7 @@ a:hover {
 }
 
 #exitWindowButton {
-  padding: 0em 0.2em;
+  padding: 1em 1em;
   background-color: lightgrey;
 	
 }	
