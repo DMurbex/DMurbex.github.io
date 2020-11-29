@@ -1,0 +1,100 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.side_menu {
+	background-color: white;
+	width: 20vw;
+	height: 100vh;
+	position: fixed;
+	left: 0;
+	top: 0;
+}
+
+.main_section {
+	width: 80vw;
+	height: 100vh;
+	float: right;
+	display: none;
+}
+
+.menu {
+	margin-top: 3vh;
+	margin-left: 3vw;
+	font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+	font-size: 3vh;
+}
+
+.titolo_menu {
+	color: rgb(0, 0, 255)
+}
+
+.menu_voice {
+	font-size: 2vh; 
+}
+
+.menu_voice:hover {
+	color:red;
+}
+
+.back_icon {
+	background-image: url("./assets/back.gif");
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 9vw;
+	height: 9vh;
+	margin-left: 1vw;
+	margin-top: 24vh;
+	-webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+.titolo_text {
+	font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+	font-size: 8vh;
+	float: right;
+	width: 100%;
+	text-align: center;
+	
+}
+
+.descrizione_text {
+	font-size: 3vh;
+	float: right;
+	width: 70%;
+	margin-right: 15%;
+	margin-top: 2vh;
+	text-align: center;
+	font-family: 'Cormorant Garamond', serif; 
+}
+
+.immagine_singola {
+	float: right;
+	height: auto;
+	width: 90%;
+	margin-right: 5%;
+	margin-top: 2vw;	
+}
+
+
+@media all and (max-width: 768px) {
+	
+	.back_icon {
+	background-image: url("./assets/back.gif");
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 18vw;
+	height: 9vh;
+	margin-left: 1.5vw;
+	margin-top: 30vh;
+	-webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+	
+	.menu_voice {
+	font-size: 2vh; 
+}
+	
+	
+	
+	
+}
