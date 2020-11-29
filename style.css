@@ -370,7 +370,6 @@ a:hover {
   overflow: scroll;
   font-size: 2.5vh;
   margin-top: 5vh;
-	  font-weight: bold;
 }	
 	
   #alertSymbol {
@@ -394,7 +393,10 @@ a:hover {
 }
 
 #exitWindowButton {
-  padding: 1em 1em;
+  padding: 0em 0.2em;
+    font-size: 3vw;
+    margin-top: 1vw;
+    margin-right: 2vw;
   background-color: lightgrey;
 	
 }	
