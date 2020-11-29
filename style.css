@@ -357,7 +357,7 @@ a:hover {
 	#alertTitle {
   display: inline;
   font-family: "PixelVJVeranda", Tahoma;
-  font-size: 10vw;
+  font-size: 5vw;
   margin-left: 2vw;	
   font-weight: bolder;		
 }
@@ -368,7 +368,7 @@ a:hover {
   height: 60vh;
   font-family: "PixelVJVeranda", Tahoma;
   overflow: scroll;
-  font-size: 1.6vh;
+  font-size: 2.5vh;
   margin-top: 5vh;
 	  font-weight: bold;
 }	
