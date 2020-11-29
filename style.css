@@ -365,7 +365,7 @@ a:hover {
   #alertMessageText {
   display: inline-block;
   width: 55%;
-  height: 60vh;
+  height: 55vh;
   font-family: "PixelVJVeranda", Tahoma;
   overflow: scroll;
   font-size: 2.5vh;
@@ -374,13 +374,13 @@ a:hover {
 	
   #alertSymbol {
   display: inline-block;
-  width: 35%;
+  width: 30%;
 }
 
 #alertSymbolImage {
   display: inline-block;
   width: 150%;
-  margin-left: 10%;
+  margin-left: 5%;
   margin-bottom: 50%;
 	margin-top: 0%;
 }	
