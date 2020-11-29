@@ -402,15 +402,20 @@ a:hover {
 }	
 	
 	
-  #popupBoxSocial {
-  width: 75vw;
+ 
+    
+    
+    
+    
+    #popupBoxSocial {
+  width: 80vw;
   /*height: 10em;*/
   background-color: #ddd;
   padding: 0.0em;
   border-style: outset;
   border-width: 3px;
 	display: none;
-	left: 17vw;
+	left: 20vw;
 	top: 40vh;
 	position: absolute;
 }
