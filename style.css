@@ -369,7 +369,7 @@ a:hover {
   font-family: "PixelVJVeranda", Tahoma;
   overflow: scroll;
   font-size: 2.5vh;
-  margin-top: 20%;
+  margin-top: 10%;
 }	
 	
   #alertSymbol {
@@ -446,7 +446,7 @@ a:hover {
 #alertTitleSocial {
   display: inline;
   font-family: "PixelVJVeranda", Tahoma;
-	font-size: 2vw;
+	font-size: 6vw;
 	margin-left: 2vw;	
 }
 
@@ -470,6 +470,9 @@ a:hover {
 
 #exitWindowButtonSocial {
   padding: 0em 0.2em;
+     font-size: 4vw;
+    margin-top: 1vw;
+    margin-right: 2vw;
   background-color: lightgrey;
 	
 }
