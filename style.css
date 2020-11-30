@@ -151,7 +151,7 @@ a:hover {
 #alertMessageText {
   display: inline-block;
   width: 60%;
-  height: 50vh;
+  height: 40vh;
   font-family: "PixelVJVeranda", Tahoma;
   overflow: scroll;
     float: right;
