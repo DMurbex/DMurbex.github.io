@@ -1,7 +1,5 @@
 
 function work01() {
-    document.body.scrollTop(); // For Safari
-    document.documentElement.scrollTop(); //for chrome
 	document.getElementById("01").style.display = "block";
 	document.getElementById("02").style.display = "none";
     document.getElementById("03").style.display = "none";
@@ -15,12 +13,12 @@ function work01() {
     document.getElementById("11").style.display = "none";
     document.getElementById("12").style.display = "none";
     document.getElementById("13").style.display = "none";
+    document.body.scrollTop(); // For Safari
+    document.documentElement.scrollTop(); //for chrome
 
 }
 
 function work02() {
-    document.body.scrollTop(); // For Safari
-    document.documentElement.scrollTop();
 	document.getElementById("01").style.display = "none";
 	document.getElementById("02").style.display = "block";
     document.getElementById("03").style.display = "none";
@@ -34,11 +32,11 @@ function work02() {
     document.getElementById("11").style.display = "none";
     document.getElementById("12").style.display = "none";
     document.getElementById("13").style.display = "none";
+    document.body.scrollTop(); // For Safari
+    document.documentElement.scrollTop(); //for chrome
 }
 
 function work03() {
-    document.body.scrollTop(); // For Safari
-    document.documentElement.scrollTop();
 	document.getElementById("01").style.display = "none";
 	document.getElementById("02").style.display = "none";
     document.getElementById("03").style.display = "block";
@@ -52,5 +50,7 @@ function work03() {
     document.getElementById("11").style.display = "none";
     document.getElementById("12").style.display = "none";
     document.getElementById("13").style.display = "none";
+    document.body.scrollTop(); // For Safari
+    document.documentElement.scrollTop(); //for chrome
 }
 
