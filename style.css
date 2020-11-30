@@ -132,10 +132,11 @@ a:hover {
 
 #alertSymbolImage {
   display: inline-block;
-  width: 130%;
+  width: 90%;
   margin-left: 10%;
-  margin-bottom: 35%;
-	margin-top: 10%;
+  margin-bottom: 85%;
+	margin-top: 8%;
+    float:left;
 }
 
 #alertTitle {
@@ -149,10 +150,12 @@ a:hover {
 
 #alertMessageText {
   display: inline-block;
-  width: 63%;
-  height: 40vh;
+  width: 60%;
+  height: 50vh;
   font-family: "PixelVJVeranda", Tahoma;
   overflow: scroll;
+    float: right;
+    margin-right: 2%;
 }
 
 #messageContent {
