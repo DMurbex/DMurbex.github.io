@@ -1,7 +1,7 @@
 
 function work01() {
-    document.body.scrollTop = 0; // For Safari
-    document.documentElement.scrollTop = 0; //for chrome
+    document.body.scrollTop(); // For Safari
+    document.documentElement.scrollTop(); //for chrome
 	document.getElementById("01").style.display = "block";
 	document.getElementById("02").style.display = "none";
     document.getElementById("03").style.display = "none";
