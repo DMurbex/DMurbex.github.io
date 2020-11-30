@@ -49,11 +49,12 @@
 }
 
 .titolo_text {
-	font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+	font-family: 'Cormorant Garamond', serif; 
 	font-size: 8vh;
 	float: right;
 	width: 100%;
 	text-align: center;
+    font-weight: bold;
 	
 }
 
