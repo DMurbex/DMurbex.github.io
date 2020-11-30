@@ -13,6 +13,8 @@ function work01() {
     document.getElementById("11").style.display = "none";
     document.getElementById("12").style.display = "none";
     document.getElementById("13").style.display = "none";
+    document.body.scrollTop = 0; // For Safari
+    document.documentElement.scrollTop = 0; //for chrome
 
 }
 
@@ -30,6 +32,8 @@ function work02() {
     document.getElementById("11").style.display = "none";
     document.getElementById("12").style.display = "none";
     document.getElementById("13").style.display = "none";
+    document.body.scrollTop = 0; // For Safari
+    document.documentElement.scrollTop = 0; //for chrome
 }
 
 function work03() {
@@ -46,5 +50,7 @@ function work03() {
     document.getElementById("11").style.display = "none";
     document.getElementById("12").style.display = "none";
     document.getElementById("13").style.display = "none";
+    document.body.scrollTop = 0; // For Safari
+    document.documentElement.scrollTop = 0; //for chrome
 }
 
