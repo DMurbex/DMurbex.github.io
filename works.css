@@ -96,7 +96,7 @@
 }
 	
 	.titolo_text {
-	font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+	font-family: "PixelVJVeranda", Tahoma;
 	font-size: 8vw;
 	float: right;
 	width: 100%;
@@ -112,7 +112,7 @@
     margin-right: 5%;
 	margin-top: 2vh;
 	text-align: center;
-	font-family: 'Cormorant Garamond', serif; 
+	font-family: "PixelVJVeranda", Tahoma;
 }
 	
 }
