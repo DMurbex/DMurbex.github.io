@@ -82,10 +82,10 @@
 	background-image: url("./assets/back.gif");
 	background-size: contain;
 	background-repeat: no-repeat;
-	width: 25vw;
+	width: 19vw;
 	height: 9vh;
 	margin-left: 2.5vw;
-	margin-top: 25vh;
+	margin-top: 20vh;
 	-webkit-transform: scaleX(-1);
   transform: scaleX(-1);
 }

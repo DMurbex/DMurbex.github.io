@@ -282,6 +282,11 @@ a:hover {
 @media screen and (max-width: 1080px) {
   /* For mobile phones: */
 	
+    .menu {
+	font-size: 8vw;
+	font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+} 
+    
 	.menu_social_text {
 		text-align: right;
 		color: yellow;
@@ -310,14 +315,14 @@ a:hover {
 	
 	.menu_social {
 	float: right;
-    width: 30vW;
+    width: 30vw;
 	height: 10vh;
 	text-align: right;
 	margin-right: 9vh;
 }
 	
 	.menu_dm {
-    width: 30vW;
+    width: 30vw;
 	height: 10vh;
 	margin-top: 4vh;
 	margin-left: 3vh;
@@ -326,14 +331,14 @@ a:hover {
 	
 	.menu_about {
 	float: left;
-	width: 30vW;
+	width: 30vw;
 	height: 10vh;
 	margin-left: 3vh;
 }
 	
 	.menu_works {
 	float: right;
-	width: 30vW;
+	width: 30vw;
 	height: 10vh;
 	text-align: right;
 	margin-top: 4vh;
