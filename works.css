@@ -105,9 +105,10 @@
 	
     
     .descrizione_text {
-	font-size: 4vw;
+	font-size: 5vw;
 	float: right;
-	width: 100%;
+	width: 90%;
+    margin-right: 5%;
 	margin-top: 2vh;
 	text-align: center;
 	font-family: 'Cormorant Garamond', serif; 
