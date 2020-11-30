@@ -94,7 +94,24 @@
 	font-size: 2vh; 
 }
 	
+	.titolo_text {
+	font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+	font-size: 6vw;
+	float: right;
+	width: 100%;
+	text-align: center;
 	
+}
 	
+    
+    .descrizione_text {
+	font-size: 4vw;
+	float: right;
+	width: 100%;
+	margin-right: 15%;
+	margin-top: 2vh;
+	text-align: center;
+	font-family: 'Cormorant Garamond', serif; 
+}
 	
 }
