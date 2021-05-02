@@ -139,7 +139,7 @@ iframe {
 	top: 0;
     display: none;
             padding: 10px;
-    box-shadow: 0px 0px 55px -25px blue;
+    box-shadow: 0px 0px 50px -25px blue;
 }
     
     .main_section {
@@ -200,13 +200,21 @@ iframe {
         position: fixed;
         width: 19vw;
 	height: 9vh;
-	left: 50vw;
+	left: 42vw;
 	bottom: 2vh;
          font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
         color: blue;
         font-size: 3vh;
         
         
+    }
+    
+    .fake_close {
+        display: none;
+        position: fixed;
+        right: 0vw;
+        width: 30vw;
+        height: 100vh;
     }
 	
 }

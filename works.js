@@ -130,13 +130,21 @@ function work07() {
 function menu_open() {
     document.getElementById("sidemenu").style.display = "block";
     document.getElementById("burger").style.display = "none";
+    document.getElementById("fake_close").style.display = "block";
+    
     
 }
 
 function menu_close() {
     document.getElementById("sidemenu").style.display = "none";
     document.getElementById("burger").style.display = "block";
+    document.getElementById("fake_close").style.display = "none";
     
 }
 
+function fake_close() {
+    document.getElementById("sidemenu").style.display = "none";
+    document.getElementById("burger").style.display = "block"; 
+    document.getElementById("fake_close").style.display = "none";
+}
 
