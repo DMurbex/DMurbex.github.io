@@ -1,6 +1,10 @@
 @charset "UTF-8";
 /* CSS Document */
 
+body {
+    overflow: scroll;
+}
+
 .side_menu {
 	background-color: white;
 	width: 20vw;
@@ -146,7 +150,7 @@ iframe {
 }
 	
 	.menu_voice {
-	font-size: 2vh; 
+	font-size: 2.5vh; 
 }
 	
 	.titolo_text {
@@ -160,7 +164,7 @@ iframe {
 	
     
     .descrizione_text {
-	font-size: 3vw;
+	font-size: 2.5vh;
 	float: right;
 	width: 90%;
     margin-right: 5%;
